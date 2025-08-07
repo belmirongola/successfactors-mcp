@@ -1,0 +1,4 @@
+mcp-sdk
+requests
+Flask
+python-dotenv
